@@ -29,7 +29,7 @@ I am a passionate engineer bridging the gap between **Hardware Constraints** and
 - 🎓 I hold a **Master's Degree in Embedded AI** from the University of Sciences, Ait Melloul.
 - 🔭 I specialize in **Edge Computing**, **Real-Time Object Detection**, and **IoT Architectures**.
 - 🧠 My secret weapon is combining **Data Science** with **Embedded C/C++**.
-- 📫 How to reach me: **elouazzaniayoub@outlook.com**
+- 📫 How to reach me: **elouazzaniayoub05@gmail.com**
 
 ---
 
